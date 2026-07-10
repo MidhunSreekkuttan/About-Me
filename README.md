@@ -1,61 +1,39 @@
-# Hi 👋, I'm Midhun
+# Hi there, I'm Midhun Sreekkuttan 👋
 
-💻 MERN Stack Developer
-📍 India
-
-I m passionate full-stack web developer with a focus on clean UI, scalable backend systems, and real-world features.
-
----
+I am a dedicated Web Developer based in Thiruvananthapuram, Kerala, focused on building dynamic, responsive, and user-centric applications. I enjoy tackling complex problems and building robust full-stack solutions. 
 
 ## 🚀 About Me
 
-* 🔭 Currently working on: **Event Management System (MERN)**
-* 🌱 Learning: **Advanced Backend, System Design, Real-time Apps**
-* 👯 Looking to collaborate on: **Open-source MERN projects**
-* 💬 Ask me about: **React, Node.js, Express, MongoDB**
-* ⚡ Goal: Become a **job-ready full-stack developer**
+*   💻 I'm currently focusing on expanding my expertise in modern web development frameworks and architectures.
+*   🛠 I enjoy building everything and real-time communication apps to backend services and integrations etc..
+*   🌱 Always eager to learn new technologies and best practices in software engineering.
+
+## 📁 Featured Projects
+
+### [Personal Portfolio](https://github.com/MidhunSreekkuttan/Portfolio)
+My personal web space. This serves as a showcase of my front-end development skills, UI/UX sensibilities, and ability to deploy and host live web applications.
+
+### [Event-Management](https://github.com/MidhunSreekkuttan/Event-Management)
+A robust application designed to streamline the organization and tracking of events. Demonstrates strong backend logic, database management, and user interface design necessary for functional full-stack platforms.
+
+### [chat-app](https://github.com/MidhunSreekkuttan/chat-app)
+A real-time communication platform. This project highlights my ability to work with continuous data streams and build interactive, responsive user experiences.
+
+### [Discord-Bot](https://github.com/MidhunSreekkuttan/Discord-Bot)
+A custom bot built for Discord servers. This project showcases my skills in asynchronous programming, interacting with third-party APIs, and handling backend event-driven architecture.
+
+## 🛠️ Technical Skills
+*   **Languages:** JavaScript, HTML5, CSS3, Python
+*   **Frontend:** React, Tailwind CSS
+*   **Backend:** Node.js, Express, Django
+*   **Databases:** MongoDB, PostgreSQL, MySQL
+*   **Tools:** Git, GitHub, VS Code, API Integration
+
+## 📫 Let's Connect!
+
+*   **GitHub:** [@MidhunSreekkuttan] https://github.com/MidhunSreekkuttan
+*   **LinkedIn:** www.linkedin.com/in/midhun-sreekkuttan
+*   **Portfolio:** https://portfolio-frontend-ten-pi.vercel.app
 
 ---
-
-## 🛠 Tech Stack
-
-**Frontend**
-
-* React.js
-* JavaScript (ES6+)
-* HTML5, CSS3
-
-**Backend**
-
-* Node.js
-* Express.js
-
-**Database**
-
-* MongoDB
-
-**Tools**
-
-* Git & GitHub
-* Postman
-* VS Code
-
----
-
-## 📈 What I'm Improving Now
-
-* Building **real-time features** using Socket.io
-* Implementing **JWT authentication & security**
-* Learning **deployment (Vercel, Render, MongoDB Atlas)**
-* Working on **scalable backend architecture**
-
----
-
-## 📫 Connect With Me
-
-* 📧 Email: midhunsreekkuttan987@gmail.com
-* 💼 LinkedIn: www.linkedin.com/in/midhun-m-09578a38a
-
----
-
-⭐ *Always learning, building, and improving.*
+⭐️ *Thanks for visiting my profile!*
